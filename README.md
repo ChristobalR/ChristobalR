@@ -1,17 +1,8 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy  Cristobal! 👋
 
-Soy desarrollador web apasionado por la tecnología y el código. Me especializo en crear aplicaciones web y mejorar la experiencia de usuario. Actualmente, estoy aprendiendo más sobre [tema de interés, por ejemplo, inteligencia artificial, desarrollo móvil, etc.].
-
-## 🚀 Mis habilidades
-
-- **Frontend:** HTML, CSS, JavaScript, React, Vue.js
-- **Backend:** Node.js, Python, Express
-- **Bases de datos:** MongoDB, MySQL
-- **Herramientas:** Git, Docker, Nginx, Webpack
+Desarrollador web de tecnología, código y  experiencia del usuario.
 
 ## 🌱 Actualmente aprendiendo
-
-- Mejorando mis habilidades en [tecnología o lenguaje que estés aprendiendo].
 
 ## Tecnologías que utilizo
 
