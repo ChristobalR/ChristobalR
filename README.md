@@ -1,6 +1,6 @@
 # ¡Hola, soy  Cristobal! 👋
 
-Desarrollador web de tecnología, código y  experiencia del usuario.
+Soy un **Desarrollador Web** apasionado por la tecnología, el código limpio y la **experiencia del usuario (UX)**. Me enfoco en crear aplicaciones web rápidas, interactivas y con un diseño centrado en el usuario.
 
 ## 🌱 Actualmente aprendiendo
 
