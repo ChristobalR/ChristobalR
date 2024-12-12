@@ -1,10 +1,16 @@
-# Hello, I'm Cristobal
+# Hello, I'm Cristobal 👋
 
-I am a **Web Developer** with a passion for technology, clean code, and **user experience (UX)**. My focus is on building fast, interactive web applications with a strong emphasis on user-centered design.
+I am a **Web Developer** with a passion for technology, clean code, and **user experience (UX)**. My goal is to build fast, interactive web applications with a user-centered design approach.
 
-## 🌱 Current Learning Focus
+## 📚 Current Learning Focus
 
-## Technologies I Work With
+- Advanced React patterns
+- Serverless architecture and AWS services
+- UX/UI best practices
+
+---
+
+## 🛠 Technologies I Use
 
 ### Frontend:
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
@@ -25,8 +31,15 @@ I am a **Web Developer** with a passion for technology, clean code, and **user e
 ### Cloud Services:
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
+---
+
+## 📊 GitHub Stats
+
+![Cristobal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
+
 ## 📞 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/tuusuario)
 - [Twitter](https://twitter.com/tuusuario)
-
