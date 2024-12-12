@@ -1,12 +1,10 @@
 # Hello, I'm Cristobal 👋
 
-I am a **Web Developer** with a passion for technology, clean code, and **user experience (UX)**. My goal is to build fast, interactive web applications with a user-centered design approach.
+I am a **Web Developer** with a passion for technology, clean code, and **user experience (UX)**. I focus on creating fast, interactive web applications with a strong user-centered design approach.
 
 ## 📚 Current Learning Focus
 
-- Advanced React patterns
-- Serverless architecture and AWS services
-- UX/UI best practices
+- Advanced React patterns | Serverless architecture | UX/UI best practices
 
 ---
 
@@ -24,7 +22,7 @@ I am a **Web Developer** with a passion for technology, clean code, and **user e
 ### Databases:
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-### Version Control & Development Tools:
+### Version Control:
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
@@ -33,13 +31,14 @@ I am a **Web Developer** with a passion for technology, clean code, and **user e
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-![Cristobal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+[![Cristobal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/tuusuario)
+[![Cristobal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&langs_count=4&theme=radical&layout=compact)](https://github.com/tuusuario)
 
 ---
 
 ## 📞 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/tuusuario)
-- [Twitter](https://twitter.com/tuusuario)
+[LinkedIn](https://www.linkedin.com/in/tuusuario) | [Twitter](https://twitter.com/tuusuario)
+
