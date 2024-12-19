@@ -24,7 +24,6 @@ I am a **Web Developer** with a passion for technology, clean code, and **user e
 
 ## 📊 GitHub Stats & Activity
 
-[![Cristobal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristobalR&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/ChristobalR)
 [![Cristobal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristobalR&langs_count=4&theme=radical&layout=compact)](https://github.com/ChristobalR)
 
 ---
