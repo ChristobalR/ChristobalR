@@ -22,12 +22,6 @@ I am a **Web Developer** with a passion for technology, clean code, and **user e
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-[![Cristobal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristobalR&langs_count=4&theme=radical&layout=compact)](https://github.com/ChristobalR)
-
----
-
 ## 📞 Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/tuusuario) | [Twitter](https://twitter.com/tuusuario)
