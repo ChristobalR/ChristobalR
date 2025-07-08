@@ -1,4 +1,4 @@
-💻 Full Stack Developer — TypeScript
+💻 Full Stack Developer — 
 🐧 Linux user (Arch, Kali) — Network & Cybersecurity enthusiast
 
 🛠️ Tools: Shell · systemd · iptables · nftables · Wireshark · Docker
