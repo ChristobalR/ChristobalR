@@ -4,6 +4,3 @@
 
 [🌐 Portfolio](https://crgavilanportafolio.vercel.app/)  
 [💼 LinkedIn](https://www.linkedin.com/in/tu-usuario)  
-
-
-> 🧠 Minimalism in code. 🛡️ Focus on security. 🚀 Always building.
