@@ -1,7 +1,5 @@
 🐧 Linux user (Arch, Kali) — Network & Cybersecurity enthusiast
 
-🛠️ Tools: Shell · systemd · iptables · nftables · Wireshark 
-
 🖥️ Frontend: React, TypeScript, JavaScript, Tailwind CSS, Material UI
 
 🛠️ Backend: Node.js, Express.js, MongoDB
